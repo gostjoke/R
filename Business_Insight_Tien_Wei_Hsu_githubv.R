@@ -11,7 +11,9 @@ library("NLP")
 
 ####twitter#####
 #necessary file for Windows
+
 setwd("")
+
 
 #to get your consumerKey and consumerSecret see the twitteR documentation for instructions
 consumer_key <- your key
