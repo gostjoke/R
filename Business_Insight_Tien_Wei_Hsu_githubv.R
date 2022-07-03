@@ -11,9 +11,7 @@ library("NLP")
 
 ####twitter#####
 #necessary file for Windows
-# setwd("/Users/thomaskurnicki/Desktop/Text analytics class/Day 1/Twitter API :: to be posted")
 setwd("")
-# download.file(url="http://curl.haxx.se/ca/cacert.pem", destfile="cacert.pem")
 
 #to get your consumerKey and consumerSecret see the twitteR documentation for instructions
 consumer_key <- your key
